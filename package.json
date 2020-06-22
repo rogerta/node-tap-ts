@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "tap"
+  },
+  "author": "Roger Tawa",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/tap": "^14.10.0",
+    "tap": "^14.10.2",
+    "typescript": "~3.9.5"
+  }
+}
