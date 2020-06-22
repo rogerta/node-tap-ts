@@ -1,6 +1,6 @@
-import * as tap from 'tap'
+import tap from 'tap'
 
-import { foo } from './foo.js'
+import { foo } from './foo'
 
 tap.test('basic', t => {
   foo()
